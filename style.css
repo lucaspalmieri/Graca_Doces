@@ -1,0 +1,51 @@
+body{
+    background-color: khaki;
+}
+.classe{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-color: khaki;
+}
+
+#avatar1, #avatar2, #avatar3{
+    width: 100px;
+    height: 100px;
+}
+
+#categorias{
+    margin-top: 50px;
+}
+
+.testimonials{
+    background-image: url('img.jpeg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+}
+
+.test1, .test2, .test3{
+    color: white;
+}
+
+.form{
+    background-color: khaki;
+}
+
+.form_contato{
+    margin-top: 40px;
+}
+
+.card-img-top{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.slide1, .slide2, .slide3{
+    margin-top: 20px;
+}
